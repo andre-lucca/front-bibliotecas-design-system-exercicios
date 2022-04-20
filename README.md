@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Integração com backend
+# Bibliotecas e Design System
 
 ## Exercícios de classe 🏫
 
