@@ -28,7 +28,20 @@
     ![](https://i.imgur.com/7DCYTPf.png)
 
 
+2. **Exercício 2** - 
+    Este exercício você deve criar uma aplicação que cadastra, listar e limpa uma listagem de animais. Todas as informações devem ser salvas no localstorage e ao recarregar a página a listagem deve permanecer com os dados cadastrados.
+    
+----
+## Dicas
+Não sabe por onde começar? Que tal, no exercicio 1 dar uma olhada na estrutura pronta, verificar o figma, após isso busque na documentação do material UI os components necessários para criar a aplicação.
+No exercicio 2, salve primeiramente as informações no estado e depois pense em como salvar a mesma no localstorage.
 
+- Usar a bibliote Material UI 
+- Customizar componentes
+- Usar a biblioteca react-use para guardar as informações no localstorage
+- Usar useRef ou UseState
+- Usar onSubmit
+- Passar props ou criar context
 
 ---
 
